@@ -2,7 +2,7 @@
 The Browser History Analyzer is a Python-based utility designed to provide detailed insights into a user's web browsing activities by analyzing the browsing history data from Google Chrome. Using SQLite, the tool establishes a connection with the Chrome history database 
 
 
-# About 
+# 💻 About
 
 Written in: Python3
 Libraries used: psycopg2, python-telegram-bot , sqlite , numpy , pandas etc
@@ -32,9 +32,9 @@ so for that YOU NEED TO CLOSE THE BROWSER AND THEN RUN YOUR SCRIPT
 
 # the OVERALL HAPPINESS AND OUTPCOME OF THIS SOFTWARE
 
-# "YOU CAN KNWO WHAT WEBSITES YOUR FRIEND ARE SURFING WITH AND UPTO WHAT TIME THEY ARE USING THE SYSTEMS " 
+ "YOU CAN KNow WHAT WEBSITES YOUR FRIEND ARE SURFING WITH AND UPTO WHAT TIME THEY ARE USING THE SYSTEMS " 
 
-# ISN;t is TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO MUCH FUN AND A WAY HOW A CYBER-SECURITY STUDENT CAN EXPLORE "
+ ISN;t is TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO MUCH FUN AND A WAY HOW A CYBER-SECURITY STUDENT CAN EXPLORE "
 
 # VVIP :
 
